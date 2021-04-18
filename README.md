@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sunnyphil
-- 👀 I’m interested in software engineering
+- 👋 Hi, I’m @phfil
+- 👀 I’m interested in 
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on IT Consulting
+- 💞️ I’m looking to collaborate on software engineering and IT Consulting
 - 📫 sunnyphil@protonmail.com
 
 <!---
