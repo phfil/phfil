@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @phfil
-- 👀 I’m interested in 
+- 👀 I’m interested in business process modelling
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on software engineering and IT Consulting
 - 📫 sunnyphil@protonmail.com
