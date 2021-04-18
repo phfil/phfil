@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phfil
 - 👀 I’m interested in business process modelling
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on software engineering and IT Consulting
+- 💞️ I’m looking to collaborate on Software-Engineering and IT Consulting
 - 📫 sunnyphil@protonmail.com
 
 <!---
