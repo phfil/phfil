@@ -2,7 +2,7 @@
 - 👀 I’m interested in business process modelling
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Software-Engineering and IT Consulting
-- 📫 sunnyphil@protonmail.com
+- 📫 kraatzphil@gmail.com
 
 <!---
 sunnyphil/sunnyphil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
