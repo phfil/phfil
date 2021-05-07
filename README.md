@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @phfil.
-- 👀 I’m interested in C#, Java and JavaScript.
+- 👀 I’m interested in C#, Java, SQL, UML and BPMN.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on Software-Engineering.
 - 📫 kraatzphil@gmail.com
