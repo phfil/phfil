@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phfil.
-- 👀 I’m interested in C#, Java, SQL, UML and BPMN.
-- 🌱 I’m currently learning JavaScript.
+- 👀 I’m interested in C#, Java, HTML, SQL, VB, C++, C, UML and BPMN.
+- 🌱 I’m currently learning ASP.NET Core.
 - 💞️ I’m looking to collaborate on Software-Engineering.
 - 📫 kraatzphil@gmail.com
 
